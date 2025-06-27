@@ -44,7 +44,7 @@
 - [Dedicated Servers - Upgrading your SSD Solidigm D7-P5520 firmware](https://help.ovhcloud.com/csm/en-dedicated-servers-solidigm-d7-p5520-fw-update?id=kb_article_view&sysparm_article=KB0070592)
 
 ##### Administration - Network
-- [IHow to get started with SSH connections](https://help.ovhcloud.com/csm/en-ie-dedicated-servers-ssh-introduction?id=kb_article_view&sysparm_article=KB0044020)
+- [How to get started with SSH connections](https://help.ovhcloud.com/csm/en-ie-dedicated-servers-ssh-introduction?id=kb_article_view&sysparm_article=KB0044020)
 - [How to create and use authentication keys for SSH connections to OVHcloud servers](https://help.ovhcloud.com/csm/en-ie-dedicated-servers-creating-ssh-keys?id=kb_article_view&sysparm_article=KB0043380)
 - [Configuring OVHcloud Secondary DNS on a dedicated server](https://help.ovhcloud.com/csm/en-dedicated-servers-secondary-dns?id=kb_article_view&sysparm_article=KB0043239)
 - [Install an OVHcloud SSH key](https://help.ovhcloud.com/csm/en-dedicated-servers-ovhcloud-ssh-key?id=kb_article_view&sysparm_article=KB0043874)
